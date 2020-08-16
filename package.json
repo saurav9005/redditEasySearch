@@ -1,0 +1,11 @@
+{
+  "name": "gatherit",
+  "version": "1.0.0",
+  "description": "Search the reddit feed with a filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
